@@ -2,5 +2,5 @@ fastapi
 uvicorn
 pytest
 httpx
-pandas
+pandas==2.2.3
 evidently
